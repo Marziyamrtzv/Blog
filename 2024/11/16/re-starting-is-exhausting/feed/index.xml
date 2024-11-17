@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Re-starting is exhausting!	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Sat, 16 Nov 2024 15:44:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+	<item>
+		<title>
+		By: lynnmrtzvi		</title>
+		<link>./../index.html#comment-7</link>
+
+		<dc:creator><![CDATA[lynnmrtzvi]]></dc:creator>
+		<pubDate>Sat, 16 Nov 2024 15:44:19 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=42#comment-7</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../index.html#comment-4&quot;&gt;Ziba&lt;/a&gt;.
+
+SAME!!!!!!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../index.html#comment-4">Ziba</a>.</p>
+<p>SAME!!!!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ziba		</title>
+		<link>./../index.html#comment-4</link>
+
+		<dc:creator><![CDATA[Ziba]]></dc:creator>
+		<pubDate>Sat, 16 Nov 2024 15:40:31 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=42#comment-4</guid>
+
+					<description><![CDATA[I am so tired of not progressing and feeling like i&#039;m in a constant slump.]]></description>
+			<content:encoded><![CDATA[<p>I am so tired of not progressing and feeling like i&#8217;m in a constant slump.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

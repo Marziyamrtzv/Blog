@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>poetry &#8211; Lynn</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sat, 16 Nov 2024 13:10:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+	<item>
+		<title>Life is unforeseen</title>
+		<link>./../../../2024/11/16/life-is-unforeseen/index.html</link>
+					<comments>./../../../2024/11/16/life-is-unforeseen/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[lynnmrtzvi]]></dc:creator>
+		<pubDate>Sat, 16 Nov 2024 12:56:23 +0000</pubDate>
+				<category><![CDATA[book]]></category>
+		<category><![CDATA[poetry]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=79</guid>
+
+					<description><![CDATA[Life is unforeseenLike the brand new smile of a passer byOr like a meal you made yourself carelesslyBut ended up enjoying it.Like the letters you got from your classmatesOr like the isolation that came with being differentLike the biggest dream that once felt like airBut now that you have it you're still not thereLike the [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<pre class="wp-block-verse"><em><br>Life is unforeseen<br>Like the brand new smile of a passer by<br>Or like a meal you made yourself carelessly<br>But ended up enjoying it.<br>Like the letters you got from your classmates<br>Or like the isolation that came with being different<br>Like the biggest dream that once felt like air<br>But now that you have it you're still not there<br>Like the cries of a newborn<br>Or like the fresh tears<br>That are being shed for the dead<br>And all the time you're wondering<br>Where you could be instead,<br>But let the day soak<br>And let the pain settle<br>Cause what you'll hunt for tomorrow<br>Is neither good or bad<br>And nor right or wrong<br>But it's unforeseen</em>.</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2024/11/16/life-is-unforeseen/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
